@@ -35,3 +35,5 @@ a:active {
 .right strong {
 	color: #636363;
 }
+
+.circular--square { border-radius: 50%; }
